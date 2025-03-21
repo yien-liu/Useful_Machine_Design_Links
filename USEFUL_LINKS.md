@@ -29,3 +29,7 @@
            点评：美国的杰克编写， 优点在于电机类型全、且每种电机都讲了应用场合
            链接：
            https://book.duxiu.com/views/specific/4010/bookDetail.jsp?dxNumber=000030578958&d=2440215C9B93F8CF81802110CF563C81&fenlei=1815050601&sw=%E7%8E%B0%E4%BB%A3%E6%B0%B8%E7%A3%81%E7%94%B5%E6%9C%BA%E8%AE%BE%E8%AE%A1
+    4.2 《现代电机设计及分析方法》 2024
+           点评： 最新的电机设计书籍， 有分数槽绕组相关的公式（2页内容），第二篇是现代的电机分析方法，包括磁网络、热网络、坐标变换等
+           链接：
+           https://book.duxiu.com/views/specific/4010/bookDetail.jsp?dxNumber=000020008071&d=8B02CD8F4DDFF6407A78537838AA6061&fenlei=1815050102&sw=%E7%8E%B0%E4%BB%A3%E6%B0%B8%E7%A3%81%E7%94%B5%E6%9C%BA%E8%AE%BE%E8%AE%A1
