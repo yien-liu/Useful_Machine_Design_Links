@@ -24,3 +24,8 @@
          链接：
                https://book.duxiu.com:443/views/specific/4010/bookDetail.jsp?dxNumber=000003065529&d=9F1AFE04830A3D5B9B3DFB7795DA723B&fenlei=18170411010701&sw=caxa%E5%AE%9E%E4%BD%93%E8%AE%BE%E8%AE%A1
    3.2 
+4. 一些永磁电机设计的书籍
+   4.1 《永磁电机设计与应用》 2023
+           点评：美国的杰克编写， 优点在于电机类型全、且每种电机都讲了应用场合
+           链接：
+           https://book.duxiu.com/views/specific/4010/bookDetail.jsp?dxNumber=000030578958&d=2440215C9B93F8CF81802110CF563C81&fenlei=1815050601&sw=%E7%8E%B0%E4%BB%A3%E6%B0%B8%E7%A3%81%E7%94%B5%E6%9C%BA%E8%AE%BE%E8%AE%A1
