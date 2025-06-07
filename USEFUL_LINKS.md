@@ -33,3 +33,5 @@
            点评： 最新的电机设计书籍， 有分数槽绕组相关的公式（2页内容），第二篇是现代的电机分析方法，包括磁网络、热网络、坐标变换等
            链接：
            https://book.duxiu.com/views/specific/4010/bookDetail.jsp?dxNumber=000020008071&d=8B02CD8F4DDFF6407A78537838AA6061&fenlei=1815050102&sw=%E7%8E%B0%E4%BB%A3%E6%B0%B8%E7%A3%81%E7%94%B5%E6%9C%BA%E8%AE%BE%E8%AE%A1
+5. 新能源汽车行业的白皮书
+   5.1  https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=15695946
